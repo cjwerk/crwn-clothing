@@ -44,4 +44,4 @@ Chris Werkheiser
 
 ## License
 
-This application is unlicensed.
+This application is unlicensed. but cool!
